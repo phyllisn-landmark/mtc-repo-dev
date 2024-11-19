@@ -1,2 +1,1 @@
-# mtc-repo-dev
-dev code repo - created through tf
+This repo is for infra dev engrs
